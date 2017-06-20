@@ -1,0 +1,4 @@
+co\com\Certicamara\web\Componentes\SuperficieLogica.class
+co\com\Certicamara\web\Enum\PathSuperficieLogica.class
+co\com\Certicamara\web\Servicio\WsSuperficieLogica.class
+co\com\Certicamara\web\ManagedBeans\MbSuperficieLogica.class
